@@ -4,27 +4,20 @@ Java application that emulates the administrative ownership of an NBA team owner
 ## Features
 ### Email + Password Login
   - User-login interface connected to a SQL database
-  - Seperate Login form from Dashboard form
+  - Separate  Login form from Dashboard form
   
 ![login!](https://user-images.githubusercontent.com/43658901/187542728-87fa57e0-4a66-4e2a-bc39-12d69c3a0541.png)
 
 ### Interactive Dashboard 
-  - Sign current players as well as Hall of Fa players to create the best NBA team.
-  - View the league and all the members the consist of each team.
-  - Release any unwanted players, test the free agentcy.
+  - Sign current players as well as Hall of Fame players to create the best NBA team.
+  - View the league and all of the members that consist of each team.
+  - Release any unwanted players, test the free agency.
   
-**Manage your team**
-![home!](https://user-images.githubusercontent.com/43658901/187543040-4ee0c40c-25a7-44d9-b4cd-bd7d872e5d7f.png)
- 
-**Sign a player**
-![signed!](https://user-images.githubusercontent.com/43658901/187542882-e1eb6b08-8ba0-41e7-a99f-e8eae6e92114.png)
-
-**release a player**
-![released!](https://user-images.githubusercontent.com/43658901/187542972-ded3da9d-3693-46f0-9410-1f5684b7fac8.png)
+![NBAappfeatures!](https://user-images.githubusercontent.com/43658901/187545793-098a96fb-bf0e-4877-a890-2d161dc0c935.PNG)
 
 
 ## Application Instructions
-1)  Download application files and open project in editing software.
+1)  Download application files and open the project in editing software.
 
 2)  Open "UserLogin.java" (NBAapp3.0 > src > logonSys > ...) and run the program.
 
@@ -48,6 +41,6 @@ ____________________________________________________________
 NBA Portal App is backed by a MySQL database login system. This system uses a secure method of accessing
 the NBA teams. The application was built in two phases: 1) Phase one was building the project as a 
 back-end console application. 2) Phase two was creating an interface and connecting that system to the 
-already exsisting console application. I decided to create this project to showcase my abilities and to
+already existing console application. I decided to create this project to showcase my abilities and to
 learn new java programming techniques. 
 
